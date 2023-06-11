@@ -1,0 +1,9 @@
+* prettier-builtins
+
+A lightweight library to avoid being annoyed by the ugly lisp printer
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/digikar99/prettier-builtins.git |
+| commit  | c7a7ba0                                                |
+| systems | prettier-builtins                                      |
+|---------+--------------------------------------------------------|
